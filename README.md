@@ -1,4 +1,3 @@
-lujawSite
-=========
+# lujawSite1
 
-personal website
+a [Sails](http://sailsjs.org) application
