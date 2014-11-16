@@ -1,0 +1,6 @@
+**/.tmp/**
+**/assets/**
+.git
+views/**
+api/permissions
+**/.svn/**
